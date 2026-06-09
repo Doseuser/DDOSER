@@ -1,4 +1,3 @@
-```markdown
 # 💥 Dose – Advanced Network Stress Testing Tool
 
 **Dose** (formerly `start.py`) is a powerful, multi‑threaded network stress testing and denial‑of‑service (DoS) simulation tool written in Python. It supports both **Layer 7 (HTTP/HTTPS)** and **Layer 4 (TCP/UDP/ICMP/RAW)** attack vectors, proxy rotation, amplification techniques, and game‑specific floods (Minecraft, FiveM, TeamSpeak, etc.).
